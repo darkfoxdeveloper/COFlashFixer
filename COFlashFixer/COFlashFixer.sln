@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COFlashFixer", "COFlashFixer\COFlashFixer.csproj", "{590EC7EB-2F29-49C5-9501-0169B84C61CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COFlashFixer_DLL", "COFlashFixer_DLL\COFlashFixer_DLL.vcxproj", "{01358812-493C-4A24-8630-F71DF28D47D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{590EC7EB-2F29-49C5-9501-0169B84C61CB}.Release|x86.Build.0 = Release|Any CPU
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Debug|x86.Build.0 = Debug|Win32
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Release|Any CPU.ActiveCfg = Release|Win32
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Release|x86.ActiveCfg = Release|Win32
+		{01358812-493C-4A24-8630-F71DF28D47D8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BEB7C5-00CF-4A93-A7D7-491D0B238CA0}
+	EndGlobalSection
+EndGlobal
